@@ -10,8 +10,8 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-no-red.svg" />
   </a>
 </p>
-<a href="https://chat.whatsapp.com/H2dvuYaI3SbKURzstwl7Wn"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
- 
+<a href=""><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+// https://chat.whatsapp.com/H2dvuYaI3SbKURzstwl7Wn
 </div>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/justpiple/whatsapp-bot/)
@@ -22,7 +22,7 @@
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/HARISGANZ/Hanz
+> git clone https://github.com/harissfx/RengThBot
 > cd Hanz
 > npm i
 ```
@@ -49,8 +49,8 @@ after start it you need to scan the qr
 ### Contact me
 
 
-- [WHATSAPP](http://wa.me/6283144394823)
-- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/H2dvuYaI3SbKURzstwl7Wn)
+-// [WHATSAPP](http://wa.me/6283144394823)
+-// [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/H2dvuYaI3SbKURzstwl7Wn)
 
 
 ## 🙏 Special Thanks to
